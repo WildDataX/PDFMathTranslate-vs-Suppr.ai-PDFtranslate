@@ -1,7 +1,4 @@
-# Suppr.ai
-
-
-<img width="680" alt="image" src="https://github.com/user-attachments/assets/c6e08b1a-d181-4d3c-ab55-e98df8f046eb" />
+# PDFMathTranslate-vs-Suppr.ai 开箱即用基于 AI 完整保留排版的 PDF、 PPTX 、 DOCX 、 EXCEL 、 TXT 、 HTML文档全文双语翻译
 
 # PDFMathTranslate vs Suppr.ai 超能文献 对比表格
 
@@ -17,8 +14,11 @@
 | **格式还原能力**   | 良好                  | 优秀  |
 | **部署方式**                | Docker 部署                          | 开箱即用              |
 
+
 ## 翻译效果：
 https://suppr.wilddata.cn/translate/showcase?referralCode=8gJIbA
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/c6e08b1a-d181-4d3c-ab55-e98df8f046eb" />
+
 
 ## 在线试用：
 https://suppr.wilddata.cn/translate/upload?referralCode=8gJIbA
