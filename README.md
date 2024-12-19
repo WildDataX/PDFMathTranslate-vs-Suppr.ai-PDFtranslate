@@ -1,6 +1,7 @@
 # Suppr.ai
 
 
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/c6e08b1a-d181-4d3c-ab55-e98df8f046eb" />
 
 # PDFMathTranslate vs Suppr.ai 超能文献 对比表格
 
