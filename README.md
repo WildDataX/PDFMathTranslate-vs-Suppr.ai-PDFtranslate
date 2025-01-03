@@ -2,6 +2,8 @@
 
 ![](https://github.com/WildDataX/PDFMathTranslate-vs-Suppr.ai-PDFtranslate/raw/refs/heads/main/%E7%BF%BB%E8%AF%91%E6%BC%94%E7%A4%BA.mp4)
 
+[![]()]([https://www.youtube.com/watch?v=video-id](https://github.com/WildDataX/PDFMathTranslate-vs-Suppr.ai-PDFtranslate/raw/refs/heads/main/%E7%BF%BB%E8%AF%91%E6%BC%94%E7%A4%BA.mp4))
+
 
 # PDFMathTranslate vs Suppr.ai 超能文献 对比表格
 
