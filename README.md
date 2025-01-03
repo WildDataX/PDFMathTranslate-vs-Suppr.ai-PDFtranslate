@@ -1,6 +1,9 @@
 # PDFMathTranslate-vs-Suppr.ai 开箱即用基于 AI 完整保留排版的 PDF、 PPTX 、 DOCX 、 EXCEL 、 TXT 、 HTML文档全文双语翻译
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113718033647402&bvid=BV17bC6YtEzx&cid=27540720708&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<div>
+  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113718033647402&bvid=BV17bC6YtEzx&cid=27540720708&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true">
+  </iframe>
+</div>
 
 
 # PDFMathTranslate vs Suppr.ai 超能文献 对比表格
