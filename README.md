@@ -24,3 +24,6 @@ https://suppr.wilddata.cn/translate/showcase?referralCode=8gJIbA
 
 ## 在线试用：
 https://suppr.wilddata.cn/translate/upload?referralCode=8gJIbA
+
+## Suppr-Zotero-plugin
+https://github.com/WildDataX/suppr-zotero-plugin
