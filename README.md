@@ -18,12 +18,13 @@
 
 
 ## 翻译效果：
-https://suppr.wilddata.cn/translate/showcase?referralCode=8gJIbA
+https://suppr.wilddata.cn/translate/showcase
+
 <img width="680" alt="image" src="https://github.com/user-attachments/assets/c6e08b1a-d181-4d3c-ab55-e98df8f046eb" />
 
 
 ## 在线试用：
-https://suppr.wilddata.cn/translate/upload?referralCode=8gJIbA
+https://suppr.wilddata.cn/translate/upload
 
 ## Suppr-Zotero-plugin
 https://github.com/WildDataX/suppr-zotero-plugin
